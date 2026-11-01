@@ -1,0 +1,8 @@
+requests
+python-dotenv
+opencv-python
+numpy
+Pillow
+matplotlib
+torch
+super-image
